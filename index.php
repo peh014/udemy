@@ -1,3 +1,3 @@
 <?php
-echo "Git funcionando";
+echo "OLA, git funcionando";
 ?>
